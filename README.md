@@ -30,4 +30,6 @@ The road accident dashboard is designed to provide insights to the following sta
 These stakeholders can leverage the dashboard's insights to improve road safety measures, implement appropriate policies, and raise awareness about road accidents.
 
 #Dashboard
+![Screenshot 2025-04-06 114642](https://github.com/user-attachments/assets/7d394faf-8003-481c-9403-9fc68eb51ebe)
+
 
